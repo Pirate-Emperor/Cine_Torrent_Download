@@ -4,9 +4,9 @@ import random
 from copy import deepcopy
 from datetime import timedelta
 from threading import *
-from peer import peer
-from torrent_error import *
-from torrent_logger import *
+from include.peer import peer
+from include.torrent_error import *
+from include.torrent_logger import *
 
 """
     Implementation of Peer Wire Protocol as mentioned in RFC of BTP/1.0

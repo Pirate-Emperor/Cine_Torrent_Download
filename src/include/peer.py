@@ -6,12 +6,12 @@ from threading import *
 from copy import deepcopy
 
 # user defined libraries 
-from torrent_error import torrent_error
-from torrent_logger import *
-from peer_wire_messages import *
-from shared_file_handler import torrent_shared_file_handler
-from peer_socket import *
-from peer_state import *
+from include.torrent_error import torrent_error
+from include.torrent_logger import *
+from include.peer_wire_messages import *
+from include.shared_file_handler import torrent_shared_file_handler
+from include.peer_socket import *
+from include.peer_state import *
 
 """
     peer class instance maintains the information about the peer participating

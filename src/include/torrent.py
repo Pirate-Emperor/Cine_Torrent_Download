@@ -2,7 +2,7 @@ import hashlib
 import random as rd
 
 # module problems torrent statistics 
-from torrent_statistics import *
+from include.torrent_statistics import *
 
 # module for printing data in Tabular format
 from beautifultable import BeautifulTable

@@ -1,5 +1,5 @@
 import struct
-from torrent_error import *
+from include.torrent_error import *
 
 """
     As per Peer Wire Protocol all the messages exchanged in between 

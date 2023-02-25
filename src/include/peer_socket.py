@@ -1,8 +1,8 @@
 from socket import *
 from select import *
 from threading import *
-from torrent_error import *
-from torrent_logger import *
+from include.torrent_error import *
+from include.torrent_logger import *
 import sys
 
 """

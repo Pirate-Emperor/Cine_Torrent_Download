@@ -10,10 +10,10 @@ from collections import OrderedDict
 import hashlib
 
 # torrent logger module for execution logging
-from torrent_logger import *
+from include.torrent_logger import *
 
 # torrent error module for handling the exception
-from torrent_error import *
+from include.torrent_error import *
 
 # module for printing data in Tabular format
 from beautifultable import BeautifulTable
