@@ -1,0 +1,9 @@
+*.un~
+*.py~
+*.txt~
+__pycache__
+*.*~
+tags
+results/*
+*.log
+*.pyc
