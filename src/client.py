@@ -1,22 +1,22 @@
 import sys
 
 # torrent file hander module for reading .torrent files
-from torrent_file_handler import torrent_file_reader
+from include.torrent_file_handler import torrent_file_reader
 
 # tracker module for making tracker request and recieving peer data
-from tracker import torrent_tracker
+from include.tracker import torrent_tracker
 
 # torrent module holds all the information about the torrent file
-from torrent import *
+from include.torrent import *
 
 # swarm module controls the operations over the multiple peers
-from swarm import swarm
+from include.swarm import swarm
 
 # share file handler module provides file I/O interface
-from shared_file_handler import torrent_shared_file_handler
+from include.shared_file_handler import torrent_shared_file_handler
 
 # torrent logger module for execution logging
-from torrent_logger import *
+from include.torrent_logger import *
 
 TORRENT_FILE_PATH = 'torrent_file_path'
 DOWNLOAD_DIR_PATH = 'download_directory_path'
