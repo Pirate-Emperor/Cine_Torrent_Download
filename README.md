@@ -77,4 +77,3 @@ To enhance the project, you can modify the Python scripts in the `src` directory
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-This README is tailored to the specific project name, user, and features. You can further customize it based on the exact requirements and details of your project.
