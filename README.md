@@ -1,5 +1,5 @@
 # Cine_Torrent_Download
-
+![CineSprite](data/public/cinesprite.png)
 Developed by Pirate-Emperor, Cine_Torrent_Download is a Python-based application that provides users with the functionality to search and download torrents for movies.
 
 ## Features
